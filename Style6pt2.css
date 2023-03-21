@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+
+.fonts{
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.fonts #get-started{
+    background-color:  rgb(46, 164, 79);
+    color: white;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border: none;
+}
